@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerTest</string>
+    <string name="fifteen">AppCount 15</string>
+    <string name="twentyfive">AppCount 25</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
