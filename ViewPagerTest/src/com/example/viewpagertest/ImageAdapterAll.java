@@ -58,6 +58,12 @@ public class ImageAdapterAll extends BaseAdapter {
         //imageView.setImageResource(R.drawable.sample_3);
         return imageView;
     }
+    public void changeGridViewSource(List<ImageView> images){
+    	mImagesGrid.clear();
+    	//mImagesGrid = images;
+    	
+    	
+    }
     
     
     
